@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Yaga987
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python,Java,C,C++,C#
-- I did some work on arduino and game design.
+- 🌱 I’m currently know Python,Java,C,C++,C#
+- I did some work on arduino stuff and game design.
+- Now, I am currently working on machine learning and data science.
 
 <!---
 Yaga987/Yaga987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
